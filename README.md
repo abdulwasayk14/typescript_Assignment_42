@@ -1,1 +1,1 @@
-# typescript_Assignment_42
+# typescript_Assignment_42_Great-Magician
